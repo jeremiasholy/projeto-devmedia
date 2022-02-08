@@ -1,0 +1,41 @@
+h1{
+    font-size:22px;
+    font-family:impact;
+    background-color:#ffffff;
+    color:#ff0000;
+    text-decoration:overline;
+    line-height:30px;
+    font-weight:bold;
+    border:6px solid #ff0000;
+    border-radius:15px 15px 10px 10px;
+    padding:10px;
+    margin-top:5px;
+}
+div{
+    width:600px;
+    margin:2px auto;
+    text-align:center; 
+    background-color:black;
+    height:100px;
+}
+h2{
+    font-size:20px;
+    font-family:arial;
+    font-weight:normal;
+    margin-top:10px;
+    border-bottom:5px dotted #00ff00;
+    border-right:3px dotted #00ff00;
+    padding:10px;
+    color:red;
+}
+a{
+    text-decoration:none;
+    font-weight:bold;
+    font-family:arial;
+    text-align:center;
+    margin-left:300px;
+    margin-right:300px;
+    border:2px solid blue;
+    border-radius:3px;
+    padding:5px;
+}
